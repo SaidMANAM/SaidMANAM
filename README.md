@@ -1,4 +1,4 @@
-### 👋 Hi there,I am Said MANAM
+### 👋 Hi there, I am Said MANAM
 - 🌱 I'm Data scientist
 - 🌱 I'm Certified in Tensorflow, Microsoft Azure Fundamentals AZ900, tMicrosoft Azure AI Fundamentals AI900 
 - 👀 I’m interested in new technologies
@@ -22,9 +22,14 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
+
+
+
 </details>
 
+
 [linkedin]: www.linkedin.com/in/said-manam
+
 
 <!---
 SaidMANAM/SaidMANAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
