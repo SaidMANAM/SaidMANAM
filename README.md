@@ -9,6 +9,12 @@
 
 [<img align="left" alt="Said Manam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+</details>
+
+[linkedin]: www.linkedin.com/in/said-manam
+
+
+
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://python.sdv.univ-paris-diderot.fr/img/logo_python.png" />]
@@ -25,10 +31,6 @@
 
 
 
-</details>
-
-
-[linkedin]: www.linkedin.com/in/said-manam
 
 
 <!---
